@@ -1,0 +1,18 @@
+#role is menu
+menu = { 
+ "Espresso": 4 ,
+ "Frappucino": 8,
+ "Americano": 6,
+ "Latte": 5,
+ "Coldbrew": 8,
+ "Matcha": 8,
+ "Croissant": 5,
+ "Cake pop": 4,
+ "Ham sandwich": 5,
+ "Bacon sandwich": 6  
+    }
+print("welcome to Sunrise Sips!" )
+
+print("~Here is our menu~")
+print("The numbers besides the drinks and food are how much they cost!")
+print(menu)
