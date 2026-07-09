@@ -1,0 +1,33 @@
+#in this page i'm making tuples for each item!
+
+#drinks: (price in dollars, size in oz)
+#coffee
+def cafeItemOne = espresso
+espresso = (4, 4)
+
+def cafeItemTwo = frappucino
+frappucino = (8, 12)
+
+def cafeItemThree = americano
+americano = (6, 8)
+
+def cafeItemFour = latte
+latte = (5, 12)
+
+def cafeItemFive = coldbrew
+coldbrew = (8, 12)
+
+#non-coffee
+
+def cafeItemSix = matcha
+matcha = (8, 8)
+
+#food (no size)
+def cafeItemSeven = croissant
+croissant = (5)
+
+def cafeItemEight = hamSandwich
+hamSandwich = (5)
+
+def cafeItemTen = bacon sandwich
+baconSandwich = (6)
